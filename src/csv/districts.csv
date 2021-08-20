@@ -1,0 +1,261 @@
+id,Districts,Region ID
+43,Asunafo North Municipal,13
+44,Asunafo South District,13
+45,Asutifi North District,13
+46,Asutifi South District,13
+47,Tano North Municipal,13
+48,Tano South Municipal,13
+49,Adansi North District,12
+50,Adansi South District,12
+51,Afigya Kwabre District,12
+52,Ahafo Ano North Municipal,12
+53,Ahafo Ano South West District,12
+54,Amansie Central District,12
+55,Amansie West District,12
+56,Asante Akim Central Municipal,12
+57,Asante Akim North District,12
+58,Asante Akim South Municipal,12
+59,Asokore Mampong Municipal,12
+60,Atwima Kwanwoma District,12
+61,Atwima Mponua District,12
+62,Atwima Nwabiagya Municipal,12
+63,Bekwai Municipal,12
+64,Bosome Freho District,12
+65,Bosomtwe District,12
+66,Ejisu Municipal,12
+67,Ejura Sekyedumase Municipal,12
+68,Kumasi Metropolitan,12
+69,Kwabre East Municipal,12
+70,Mampong Municipal ,12
+71,Obuasi Municipal,12
+72,Offinso Municipal,12
+73,Offinso North District,12
+74,Sekyere Afram Plains District,12
+75,Sekyere Central District,12
+76,Sekyere East District,12
+77,Sekyere Kumawu District,12
+78,Sekyere South District,12
+79,Oforikrom Municipal,12
+80,Kwadaso Municipal,12
+81,Old Tafo Municipal,12
+82,Asokwa Municipal,12
+83,Suame Municipal,12
+84,Juaben Municipal,12
+85,Ahafo Ano South East District,12
+86,Amansie South District,12
+87,Atwima Nwabiagya North District,12
+88,Akrofuom District,12
+89,Adansi Asokwa District,12
+90,Obuasi East District,12
+91,Afigya Kwabre North District,12
+92,Banda District,15
+93,Berekum Municipal,15
+94,Dormaa Central Municipal,15
+95,Dormaa East District,15
+96,Dormaa West District,15
+97,Jaman North District,15
+98,Jaman South Municipal,15
+99,Sunyani Municipal,15
+100,Sunyani West District,15
+101,Tain District,15
+102,Wenchi Municipal,15
+103,Berekum West District,15
+104,Atebubu Amantin Municipal,14
+105,Kintampo North Municipal,14
+106,Kintampo South District,14
+107,Nkoranza South Municipal ,14
+108,Nkoranza  North District,14
+109,Pru East District,14
+110,Sene East District,14
+111,Sene West District,14
+112,Techiman Municipal,14
+113,Techiman North District,14
+114,Pru West District,14
+115,Abura Asebu Kwamankese District,16
+116,Agona East District,16
+117,Agona West Municipal,16
+118,Ajumako Enyan Essiam District,16
+119,Asikuma Odoben Brankwa District,16
+120,Assin Central Municipal,16
+121,Assin South District,16
+122,Awutu Senya East Municipal,16
+123,Awutu Senya West District,16
+124,Cape Coast Metropolitan,16
+125,Effutu Municipal,16
+126,Ekumfi District,16
+127,Gomoa Central District,16
+128,Gomoa West District,16
+129,Komenda Edina Eguafo Abirem Municipal,16
+130,Mfantseman Municipal,16
+131,Twifo Atti Morkwa District,16
+132,Twifo Heman Lower Denkyira District,16
+133,Upper Denkyira East Municipal,16
+134,Upper Denkyira West District,16
+135,Assin North District,16
+136,Gomoa East District,16
+137,Akuapem North Municipal,17
+138,Akuapim South District,17
+139,Akyemansa District,17
+140,Asuogyaman District,17
+141,Atiwa West District,17
+142,Ayensuano District,17
+143,Birim Central Municipal,17
+144,Birim North District,17
+145,Birim South District,17
+146,Denkyembour District,17
+147,Abuakwa South Municipal,17
+148,Fanteakwa North District,17
+149,Kwaebibirem Municipal,17
+150,Kwahu Afram Plains North District,17
+151,Kwahu Afram Plains South District,17
+152,Kwahu East District,17
+153,Kwahu South District,17
+154,Kwahu West Municipal,17
+155,Lower Manya Krobo Municipal,17
+156,New Juaben South Municipal,17
+157,Nsawam Adoagyiri Municipal,17
+158,Suhum Municipal,17
+159,Upper Manya Krobo District,17
+160,Upper West Akim District,17
+161,West Akim Municipal,17
+162,Yilo Krobo Municipal,17
+163,Okere District,17
+164,Atiwa East District,17
+165,Fanteakwa South District,17
+166,Asene Manso Akroso District,17
+167,Abuakwa North Municipal,17
+168,New Juaben North Municipal,17
+169,Achiase District,17
+170,Accra Metropolitan,18
+171,Ada West District,18
+172,Ada East District,18
+173,Adentan Municipal,18
+174,Ashaiman Municipal,18
+175,Ga Central Municipal,18
+176,Ga South Municipal,18
+177,Ga East Municipal,18
+178,Ga West Municipal,18
+179,La Dade Kotopon Municipal,18
+180,Ledzekuku Municipal,18
+181,La Nkwantanang Madina Municipal,18
+182,Ningo Prampram District,18
+183,Shai Osudoku District,18
+184,Tema Metropolitan,18
+185,Kpone Katamanso Municipal,18
+186,Okaikwei North Municipal,18
+187,Ablekuma North Municipal,18
+188,Ablekuma West Municipal,18
+189,Ayawaso East Municipal,18
+190,Ayawaso North Municipal,18
+191,Ayawaso West Municipal,18
+192,Ga North Municipal,18
+193,Weija Gbawe Municipal,18
+194,Tema West Municipal,18
+195,Krowor Municipal,18
+196,Korle Klottey Municipal,18
+197,Ablekuma Central Municipal,18
+198,Ayawaso Central Municipal,18
+199,Bunkpurugu Nyankpanduri District,20
+200,Chereponi District,20
+201,East Mamprusi Municipal,20
+202,Mamprugu Moagduri District,20
+203,West Mamprusi Municipal,20
+204,Yunyoo-Nasuan District,20
+205,Gushegu Municipal,21
+206,Karaga District,21
+207,Kpandai District,21
+208,Kumbungu District,21
+209,Mion District,21
+210,Nanumba North Municipal,21
+211,Nanumba South District,21
+212,Saboba District,21
+213,Sagnarigu Municipal,21
+214,Savelugu Municipal,21
+215,Tamale Metropolitan,21
+216,Tatale/Sanguli District,21
+217,Tolon District,21
+218,Yendi Municipal,21
+219,Zabzugu District,21
+220,Nanton District,21
+221,Biakoye District,25
+222,Jasikan District,25
+223,Kadjebi District,25
+224,Krachi East Municipal,25
+225,Krachi Nchumuru District,25
+226,Krachi West District,25
+227,Nkwanta North District,25
+228,Nkwanta South Municipal,25
+229,Bole District,19
+230,Central Gonja District,19
+231,East Gonja Municipal,19
+232,North Gonja District,19
+233,Sawla-Tuna-Kalba District,19
+234,West Gonja District,19
+235,North East Gonja District,19
+236,Bawku Municipal,22
+237,Bawku West District,22
+238,Binduri District,22
+239,Bolgatanga Municipal,22
+240,Bongo District,22
+241,Builsa North Municipal,22
+242,Builsa South District,22
+243,Garu District,22
+244,Kassena Nankana Municipal,22
+245,Kassena Nankana West District,22
+246,Nabdam District,22
+247,Pusiga District,22
+248,Talensi District,22
+249,Bolgatanga East District,22
+250,Tempane District,22
+251,Daffiama Bussie Issa District,23
+252,Jirapa Municipal,23
+253,Lambussie Karni District,23
+254,Lawra Municipal,23
+255,Nadowli Kaleo District,23
+256,Nandom District,23
+257,Sissala East Municipal,23
+258,Sissala West District,23
+259,Wa East District,23
+260,Wa Municipal,23
+261,Wa West District,23
+262,Adaklu District,24
+263,Afadzato South District,24
+264,Agotime Ziope District,24
+265,Akatsi North District,24
+266,Akatsi South District,24
+267,Central Tongu District,24
+268,Ho Municipal,24
+269,Ho West District,24
+270,Hohoe Municipal,24
+271,Keta Municipal,24
+272,Ketu North Municipal,24
+273,Ketu South Municipal,24
+274,Kpando Municipal,24
+275,North Dayi District,24
+276,North Tongu District,24
+277,South Dayi District,24
+278,South Tongu District,24
+279,Anloga District,24
+280,Ahanta West Municipal,26
+281,Amenfi Central District,26
+282,Wassa Amenfi East Municipal,26
+283,Amenfi West Municipal,26
+284,Ellembelle District,26
+285,Jomoro Municipal,26
+286,Mpohor District,26
+287,Nzema East Municipal,26
+288,Prestea-Huni Valley Municipal,26
+289,Sekondi Takoradi Metropolitan,26
+290,Shama District,26
+291,Tarkwa Nsuaem Municipal,26
+292,Wassa East District,26
+293,Effia Kwesimintsim Municipal,26
+294,Aowin Municipal,27
+295,Bia East District,27
+296,Bia West District,27
+297,Bibiani-Anhwiaso Bekwai Municipal,27
+298,Bodi District,27
+299,Juaboso District,27
+300,Sefwi Akontombra District,27
+301,Sefwi Wiawso Municipal,27
+302,Suaman District,27
