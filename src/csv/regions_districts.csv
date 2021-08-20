@@ -1,17 +1,261 @@
-Name,id
-Ashanti,1
-Ahafo,2
-Bono East,3
-Bono,4
-Central,5
-Eastern,6
-Greater Accra,7
-Savannah,8
-North East,9
-Northern,10
-Upper East,11
-Upper West,12
-Volta,13
-Oti,14
-Western,15
-Western North,16
+ID,REGION,DISTRICT
+1,Ahafo,Asunafo North Municipal
+2,Ahafo,Asunafo South District
+3,Ahafo,Asutifi North District
+4,Ahafo,Asutifi South District
+5,Ahafo,Tano North Municipal
+6,Ahafo,Tano South Municipal
+7,Ashanti,Adansi North District
+8,Ashanti,Adansi South District
+9,Ashanti,Afigya Kwabre District
+10,Ashanti,Ahafo Ano North Municipal
+11,Ashanti,Ahafo Ano South West District
+12,Ashanti,Amansie Central District
+13,Ashanti,Amansie West District
+14,Ashanti,Asante Akim Central Municipal
+15,Ashanti,Asante Akim North District
+16,Ashanti,Asante Akim South Municipal
+17,Ashanti,Asokore Mampong Municipal
+18,Ashanti,Atwima Kwanwoma District
+19,Ashanti,Atwima Mponua District
+20,Ashanti,Atwima Nwabiagya Municipal
+21,Ashanti,Bekwai Municipal
+22,Ashanti,Bosome Freho District
+23,Ashanti,Bosomtwe District
+24,Ashanti,Ejisu Municipal
+25,Ashanti,Ejura Sekyedumase Municipal
+26,Ashanti,Kumasi Metropolitan
+27,Ashanti,Kwabre East Municipal
+28,Ashanti,Mampong Municipal 
+29,Ashanti,Obuasi Municipal
+30,Ashanti,Offinso Municipal
+31,Ashanti,Offinso North District
+32,Ashanti,Sekyere Afram Plains District
+33,Ashanti,Sekyere Central District
+34,Ashanti,Sekyere East District
+35,Ashanti,Sekyere Kumawu District
+36,Ashanti,Sekyere South District
+37,Ashanti,Oforikrom Municipal
+38,Ashanti,Kwadaso Municipal
+39,Ashanti,Old Tafo Municipal
+40,Ashanti,Asokwa Municipal
+41,Ashanti,Suame Municipal
+42,Ashanti,Juaben Municipal
+43,Ashanti,Ahafo Ano South East District
+44,Ashanti,Amansie South District
+45,Ashanti,Atwima Nwabiagya North District
+46,Ashanti,Akrofuom District
+47,Ashanti,Adansi Asokwa District
+48,Ashanti,Obuasi East District
+49,Ashanti,Afigya Kwabre North District
+50,Bono,Banda District
+51,Bono,Berekum Municipal
+52,Bono,Dormaa Central Municipal
+53,Bono,Dormaa East District
+54,Bono,Dormaa West District
+55,Bono,Jaman North District
+56,Bono,Jaman South Municipal
+57,Bono,Sunyani Municipal
+58,Bono,Sunyani West District
+59,Bono,Tain District
+60,Bono,Wenchi Municipal
+61,Bono,Berekum West District
+62,Bono East,Atebubu Amantin Municipal
+63,Bono East,Kintampo North Municipal
+64,Bono East,Kintampo South District
+65,Bono East,Nkoranza South Municipal 
+66,Bono East,Nkoranza  North District
+67,Bono East,Pru East District
+68,Bono East,Sene East District
+69,Bono East,Sene West District
+70,Bono East,Techiman Municipal
+71,Bono East,Techiman North District
+72,Bono East,Pru West District
+73,Central,Abura Asebu Kwamankese District
+74,Central,Agona East District
+75,Central,Agona West Municipal
+76,Central,Ajumako Enyan Essiam District
+77,Central,Asikuma Odoben Brankwa District
+78,Central,Assin Central Municipal
+79,Central,Assin South District
+80,Central,Awutu Senya East Municipal
+81,Central,Awutu Senya West District
+82,Central,Cape Coast Metropolitan
+83,Central,Effutu Municipal
+84,Central,Ekumfi District
+85,Central,Gomoa Central District
+86,Central,Gomoa West District
+87,Central,Komenda Edina Eguafo Abirem Municipal
+88,Central,Mfantseman Municipal
+89,Central,Twifo Atti Morkwa District
+90,Central,Twifo Heman Lower Denkyira District
+91,Central,Upper Denkyira East Municipal
+92,Central,Upper Denkyira West District
+93,Central,Assin North District
+94,Central,Gomoa East District
+95,Eastern,Akuapem North Municipal
+96,Eastern,Akuapim South District
+97,Eastern,Akyemansa District
+98,Eastern,Asuogyaman District
+99,Eastern,Atiwa West District
+100,Eastern,Ayensuano District
+101,Eastern,Birim Central Municipal
+102,Eastern,Birim North District
+103,Eastern,Birim South District
+104,Eastern,Denkyembour District
+105,Eastern,Abuakwa South Municipal
+106,Eastern,Fanteakwa North District
+107,Eastern,Kwaebibirem Municipal
+108,Eastern,Kwahu Afram Plains North District
+109,Eastern,Kwahu Afram Plains South District
+110,Eastern,Kwahu East District
+111,Eastern,Kwahu South District
+112,Eastern,Kwahu West Municipal
+113,Eastern,Lower Manya Krobo Municipal
+114,Eastern,New Juaben South Municipal
+115,Eastern,Nsawam Adoagyiri Municipal
+116,Eastern,Suhum Municipal
+117,Eastern,Upper Manya Krobo District
+118,Eastern,Upper West Akim District
+119,Eastern,West Akim Municipal
+120,Eastern,Yilo Krobo Municipal
+121,Eastern,Okere District
+122,Eastern,Atiwa East District
+123,Eastern,Fanteakwa South District
+124,Eastern,Asene Manso Akroso District
+125,Eastern,Abuakwa North Municipal
+126,Eastern,New Juaben North Municipal
+127,Eastern,Achiase District
+128,Greater Accra,Accra Metropolitan
+129,Greater Accra,Ada West District
+130,Greater Accra,Ada East District
+131,Greater Accra,Adentan Municipal
+132,Greater Accra,Ashaiman Municipal
+133,Greater Accra,Ga Central Municipal
+134,Greater Accra,Ga South Municipal
+135,Greater Accra,Ga East Municipal
+136,Greater Accra,Ga West Municipal
+137,Greater Accra,La Dade Kotopon Municipal
+138,Greater Accra,Ledzekuku Municipal
+139,Greater Accra,La Nkwantanang Madina Municipal
+140,Greater Accra,Ningo Prampram District
+141,Greater Accra,Shai Osudoku District
+142,Greater Accra,Tema Metropolitan
+143,Greater Accra,Kpone Katamanso Municipal
+144,Greater Accra,Okaikwei North Municipal
+145,Greater Accra,Ablekuma North Municipal
+146,Greater Accra,Ablekuma West Municipal
+147,Greater Accra,Ayawaso East Municipal
+148,Greater Accra,Ayawaso North Municipal
+149,Greater Accra,Ayawaso West Municipal
+150,Greater Accra,Ga North Municipal
+151,Greater Accra,Weija Gbawe Municipal
+152,Greater Accra,Tema West Municipal
+153,Greater Accra,Krowor Municipal
+154,Greater Accra,Korle Klottey Municipal
+155,Greater Accra,Ablekuma Central Municipal
+156,Greater Accra,Ayawaso Central Municipal
+157,North East,Bunkpurugu Nyankpanduri District
+158,North East,Chereponi District
+159,North East,East Mamprusi Municipal
+160,North East,Mamprugu Moagduri District
+161,North East,West Mamprusi Municipal
+162,North East,Yunyoo-Nasuan District
+163,Northern,Gushegu Municipal
+164,Northern,Karaga District
+165,Northern,Kpandai District
+166,Northern,Kumbungu District
+167,Northern,Mion District
+168,Northern,Nanumba North Municipal
+169,Northern,Nanumba South District
+170,Northern,Saboba District
+171,Northern,Sagnarigu Municipal
+172,Northern,Savelugu Municipal
+173,Northern,Tamale Metropolitan
+174,Northern,Tatale/Sanguli District
+175,Northern,Tolon District
+176,Northern,Yendi Municipal
+177,Northern,Zabzugu District
+178,Northern,Nanton District
+179,Oti,Biakoye District
+180,Oti,Jasikan District
+181,Oti,Kadjebi District
+182,Oti,Krachi East Municipal
+183,Oti,Krachi Nchumuru District
+184,Oti,Krachi West District
+185,Oti,Nkwanta North District
+186,Oti,Nkwanta South Municipal
+187,Savannah,Bole District
+188,Savannah,Central Gonja District
+189,Savannah,East Gonja Municipal
+190,Savannah,North Gonja District
+191,Savannah,Sawla-Tuna-Kalba District
+192,Savannah,West Gonja District
+193,Savannah,North East Gonja District
+194,Upper East,Bawku Municipal
+195,Upper East,Bawku West District
+196,Upper East,Binduri District
+197,Upper East,Bolgatanga Municipal
+198,Upper East,Bongo District
+199,Upper East,Builsa North Municipal
+200,Upper East,Builsa South District
+201,Upper East,Garu District
+202,Upper East,Kassena Nankana Municipal
+203,Upper East,Kassena Nankana West District
+204,Upper East,Nabdam District
+205,Upper East,Pusiga District
+206,Upper East,Talensi District
+207,Upper East,Bolgatanga East District
+208,Upper East,Tempane District
+209,Upper West,Daffiama Bussie Issa District
+210,Upper West,Jirapa Municipal
+211,Upper West,Lambussie Karni District
+212,Upper West,Lawra Municipal
+213,Upper West,Nadowli Kaleo District
+214,Upper West,Nandom District
+215,Upper West,Sissala East Municipal
+216,Upper West,Sissala West District
+217,Upper West,Wa East District
+218,Upper West,Wa Municipal
+219,Upper West,Wa West District
+220,Volta,Adaklu District
+221,Volta,Afadzato South District
+222,Volta,Agotime Ziope District
+223,Volta,Akatsi North District
+224,Volta,Akatsi South District
+225,Volta,Central Tongu District
+226,Volta,Ho Municipal
+227,Volta,Ho West District
+228,Volta,Hohoe Municipal
+229,Volta,Keta Municipal
+230,Volta,Ketu North Municipal
+231,Volta,Ketu South Municipal
+232,Volta,Kpando Municipal
+233,Volta,North Dayi District
+234,Volta,North Tongu District
+235,Volta,South Dayi District
+236,Volta,South Tongu District
+237,Volta,Anloga District
+238,Western,Ahanta West Municipal
+239,Western,Amenfi Central District
+240,Western,Wassa Amenfi East Municipal
+241,Western,Amenfi West Municipal
+242,Western,Ellembelle District
+243,Western,Jomoro Municipal
+244,Western,Mpohor District
+245,Western,Nzema East Municipal
+246,Western,Prestea-Huni Valley Municipal
+247,Western,Sekondi Takoradi Metropolitan
+248,Western,Shama District
+249,Western,Tarkwa Nsuaem Municipal
+250,Western,Wassa East District
+251,Western,Effia Kwesimintsim Municipal
+252,Western North,Aowin Municipal
+253,Western North,Bia East District
+254,Western North,Bia West District
+255,Western North,Bibiani-Anhwiaso Bekwai Municipal
+256,Western North,Bodi District
+257,Western North,Juaboso District
+258,Western North,Sefwi Akontombra District
+259,Western North,Sefwi Wiawso Municipal
+260,Western North,Suaman District
