@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "43",
+    "Districts": "Asunafo North Municipal",
+    "Region ID": "13"
+  },
+  {
+    "id": "44",
+    "Districts": "Asunafo South District",
+    "Region ID": "13"
+  },
+  {
+    "id": "45",
+    "Districts": "Asutifi North District",
+    "Region ID": "13"
+  },
+  {
+    "id": "46",
+    "Districts": "Asutifi South District",
+    "Region ID": "13"
+  },
+  {
+    "id": "47",
+    "Districts": "Tano North Municipal",
+    "Region ID": "13"
+  },
+  {
+    "id": "48",
+    "Districts": "Tano South Municipal",
+    "Region ID": "13"
+  },
+  {
+    "id": "49",
+    "Districts": "Adansi North District",
+    "Region ID": "12"
+  },
+  {
+    "id": "50",
+    "Districts": "Adansi South District",
+    "Region ID": "12"
+  },
+  {
+    "id": "51",
+    "Districts": "Afigya Kwabre District",
+    "Region ID": "12"
+  },
+  {
+    "id": "52",
+    "Districts": "Ahafo Ano North Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "53",
+    "Districts": "Ahafo Ano South West District",
+    "Region ID": "12"
+  },
+  {
+    "id": "54",
+    "Districts": "Amansie Central District",
+    "Region ID": "12"
+  },
+  {
+    "id": "55",
+    "Districts": "Amansie West District",
+    "Region ID": "12"
+  },
+  {
+    "id": "56",
+    "Districts": "Asante Akim Central Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "57",
+    "Districts": "Asante Akim North District",
+    "Region ID": "12"
+  },
+  {
+    "id": "58",
+    "Districts": "Asante Akim South Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "59",
+    "Districts": "Asokore Mampong Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "60",
+    "Districts": "Atwima Kwanwoma District",
+    "Region ID": "12"
+  },
+  {
+    "id": "61",
+    "Districts": "Atwima Mponua District",
+    "Region ID": "12"
+  },
+  {
+    "id": "62",
+    "Districts": "Atwima Nwabiagya Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "63",
+    "Districts": "Bekwai Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "64",
+    "Districts": "Bosome Freho District",
+    "Region ID": "12"
+  },
+  {
+    "id": "65",
+    "Districts": "Bosomtwe District",
+    "Region ID": "12"
+  },
+  {
+    "id": "66",
+    "Districts": "Ejisu Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "67",
+    "Districts": "Ejura Sekyedumase Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "68",
+    "Districts": "Kumasi Metropolitan",
+    "Region ID": "12"
+  },
+  {
+    "id": "69",
+    "Districts": "Kwabre East Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "70",
+    "Districts": "Mampong Municipal ",
+    "Region ID": "12"
+  },
+  {
+    "id": "71",
+    "Districts": "Obuasi Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "72",
+    "Districts": "Offinso Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "73",
+    "Districts": "Offinso North District",
+    "Region ID": "12"
+  },
+  {
+    "id": "74",
+    "Districts": "Sekyere Afram Plains District",
+    "Region ID": "12"
+  },
+  {
+    "id": "75",
+    "Districts": "Sekyere Central District",
+    "Region ID": "12"
+  },
+  {
+    "id": "76",
+    "Districts": "Sekyere East District",
+    "Region ID": "12"
+  },
+  {
+    "id": "77",
+    "Districts": "Sekyere Kumawu District",
+    "Region ID": "12"
+  },
+  {
+    "id": "78",
+    "Districts": "Sekyere South District",
+    "Region ID": "12"
+  },
+  {
+    "id": "79",
+    "Districts": "Oforikrom Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "80",
+    "Districts": "Kwadaso Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "81",
+    "Districts": "Old Tafo Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "82",
+    "Districts": "Asokwa Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "83",
+    "Districts": "Suame Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "84",
+    "Districts": "Juaben Municipal",
+    "Region ID": "12"
+  },
+  {
+    "id": "85",
+    "Districts": "Ahafo Ano South East District",
+    "Region ID": "12"
+  },
+  {
+    "id": "86",
+    "Districts": "Amansie South District",
+    "Region ID": "12"
+  },
+  {
+    "id": "87",
+    "Districts": "Atwima Nwabiagya North District",
+    "Region ID": "12"
+  },
+  {
+    "id": "88",
+    "Districts": "Akrofuom District",
+    "Region ID": "12"
+  },
+  {
+    "id": "89",
+    "Districts": "Adansi Asokwa District",
+    "Region ID": "12"
+  },
+  {
+    "id": "90",
+    "Districts": "Obuasi East District",
+    "Region ID": "12"
+  },
+  {
+    "id": "91",
+    "Districts": "Afigya Kwabre North District",
+    "Region ID": "12"
+  },
+  {
+    "id": "92",
+    "Districts": "Banda District",
+    "Region ID": "15"
+  },
+  {
+    "id": "93",
+    "Districts": "Berekum Municipal",
+    "Region ID": "15"
+  },
+  {
+    "id": "94",
+    "Districts": "Dormaa Central Municipal",
+    "Region ID": "15"
+  },
+  {
+    "id": "95",
+    "Districts": "Dormaa East District",
+    "Region ID": "15"
+  },
+  {
+    "id": "96",
+    "Districts": "Dormaa West District",
+    "Region ID": "15"
+  },
+  {
+    "id": "97",
+    "Districts": "Jaman North District",
+    "Region ID": "15"
+  },
+  {
+    "id": "98",
+    "Districts": "Jaman South Municipal",
+    "Region ID": "15"
+  },
+  {
+    "id": "99",
+    "Districts": "Sunyani Municipal",
+    "Region ID": "15"
+  },
+  {
+    "id": "100",
+    "Districts": "Sunyani West District",
+    "Region ID": "15"
+  },
+  {
+    "id": "101",
+    "Districts": "Tain District",
+    "Region ID": "15"
+  },
+  {
+    "id": "102",
+    "Districts": "Wenchi Municipal",
+    "Region ID": "15"
+  },
+  {
+    "id": "103",
+    "Districts": "Berekum West District",
+    "Region ID": "15"
+  },
+  {
+    "id": "104",
+    "Districts": "Atebubu Amantin Municipal",
+    "Region ID": "14"
+  },
+  {
+    "id": "105",
+    "Districts": "Kintampo North Municipal",
+    "Region ID": "14"
+  },
+  {
+    "id": "106",
+    "Districts": "Kintampo South District",
+    "Region ID": "14"
+  },
+  {
+    "id": "107",
+    "Districts": "Nkoranza South Municipal ",
+    "Region ID": "14"
+  },
+  {
+    "id": "108",
+    "Districts": "Nkoranza  North District",
+    "Region ID": "14"
+  },
+  {
+    "id": "109",
+    "Districts": "Pru East District",
+    "Region ID": "14"
+  },
+  {
+    "id": "110",
+    "Districts": "Sene East District",
+    "Region ID": "14"
+  },
+  {
+    "id": "111",
+    "Districts": "Sene West District",
+    "Region ID": "14"
+  },
+  {
+    "id": "112",
+    "Districts": "Techiman Municipal",
+    "Region ID": "14"
+  },
+  {
+    "id": "113",
+    "Districts": "Techiman North District",
+    "Region ID": "14"
+  },
+  {
+    "id": "114",
+    "Districts": "Pru West District",
+    "Region ID": "14"
+  },
+  {
+    "id": "115",
+    "Districts": "Abura Asebu Kwamankese District",
+    "Region ID": "16"
+  },
+  {
+    "id": "116",
+    "Districts": "Agona East District",
+    "Region ID": "16"
+  },
+  {
+    "id": "117",
+    "Districts": "Agona West Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "118",
+    "Districts": "Ajumako Enyan Essiam District",
+    "Region ID": "16"
+  },
+  {
+    "id": "119",
+    "Districts": "Asikuma Odoben Brankwa District",
+    "Region ID": "16"
+  },
+  {
+    "id": "120",
+    "Districts": "Assin Central Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "121",
+    "Districts": "Assin South District",
+    "Region ID": "16"
+  },
+  {
+    "id": "122",
+    "Districts": "Awutu Senya East Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "123",
+    "Districts": "Awutu Senya West District",
+    "Region ID": "16"
+  },
+  {
+    "id": "124",
+    "Districts": "Cape Coast Metropolitan",
+    "Region ID": "16"
+  },
+  {
+    "id": "125",
+    "Districts": "Effutu Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "126",
+    "Districts": "Ekumfi District",
+    "Region ID": "16"
+  },
+  {
+    "id": "127",
+    "Districts": "Gomoa Central District",
+    "Region ID": "16"
+  },
+  {
+    "id": "128",
+    "Districts": "Gomoa West District",
+    "Region ID": "16"
+  },
+  {
+    "id": "129",
+    "Districts": "Komenda Edina Eguafo Abirem Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "130",
+    "Districts": "Mfantseman Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "131",
+    "Districts": "Twifo Atti Morkwa District",
+    "Region ID": "16"
+  },
+  {
+    "id": "132",
+    "Districts": "Twifo Heman Lower Denkyira District",
+    "Region ID": "16"
+  },
+  {
+    "id": "133",
+    "Districts": "Upper Denkyira East Municipal",
+    "Region ID": "16"
+  },
+  {
+    "id": "134",
+    "Districts": "Upper Denkyira West District",
+    "Region ID": "16"
+  },
+  {
+    "id": "135",
+    "Districts": "Assin North District",
+    "Region ID": "16"
+  },
+  {
+    "id": "136",
+    "Districts": "Gomoa East District",
+    "Region ID": "16"
+  },
+  {
+    "id": "137",
+    "Districts": "Akuapem North Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "138",
+    "Districts": "Akuapim South District",
+    "Region ID": "17"
+  },
+  {
+    "id": "139",
+    "Districts": "Akyemansa District",
+    "Region ID": "17"
+  },
+  {
+    "id": "140",
+    "Districts": "Asuogyaman District",
+    "Region ID": "17"
+  },
+  {
+    "id": "141",
+    "Districts": "Atiwa West District",
+    "Region ID": "17"
+  },
+  {
+    "id": "142",
+    "Districts": "Ayensuano District",
+    "Region ID": "17"
+  },
+  {
+    "id": "143",
+    "Districts": "Birim Central Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "144",
+    "Districts": "Birim North District",
+    "Region ID": "17"
+  },
+  {
+    "id": "145",
+    "Districts": "Birim South District",
+    "Region ID": "17"
+  },
+  {
+    "id": "146",
+    "Districts": "Denkyembour District",
+    "Region ID": "17"
+  },
+  {
+    "id": "147",
+    "Districts": "Abuakwa South Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "148",
+    "Districts": "Fanteakwa North District",
+    "Region ID": "17"
+  },
+  {
+    "id": "149",
+    "Districts": "Kwaebibirem Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "150",
+    "Districts": "Kwahu Afram Plains North District",
+    "Region ID": "17"
+  },
+  {
+    "id": "151",
+    "Districts": "Kwahu Afram Plains South District",
+    "Region ID": "17"
+  },
+  {
+    "id": "152",
+    "Districts": "Kwahu East District",
+    "Region ID": "17"
+  },
+  {
+    "id": "153",
+    "Districts": "Kwahu South District",
+    "Region ID": "17"
+  },
+  {
+    "id": "154",
+    "Districts": "Kwahu West Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "155",
+    "Districts": "Lower Manya Krobo Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "156",
+    "Districts": "New Juaben South Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "157",
+    "Districts": "Nsawam Adoagyiri Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "158",
+    "Districts": "Suhum Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "159",
+    "Districts": "Upper Manya Krobo District",
+    "Region ID": "17"
+  },
+  {
+    "id": "160",
+    "Districts": "Upper West Akim District",
+    "Region ID": "17"
+  },
+  {
+    "id": "161",
+    "Districts": "West Akim Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "162",
+    "Districts": "Yilo Krobo Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "163",
+    "Districts": "Okere District",
+    "Region ID": "17"
+  },
+  {
+    "id": "164",
+    "Districts": "Atiwa East District",
+    "Region ID": "17"
+  },
+  {
+    "id": "165",
+    "Districts": "Fanteakwa South District",
+    "Region ID": "17"
+  },
+  {
+    "id": "166",
+    "Districts": "Asene Manso Akroso District",
+    "Region ID": "17"
+  },
+  {
+    "id": "167",
+    "Districts": "Abuakwa North Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "168",
+    "Districts": "New Juaben North Municipal",
+    "Region ID": "17"
+  },
+  {
+    "id": "169",
+    "Districts": "Achiase District",
+    "Region ID": "17"
+  },
+  {
+    "id": "170",
+    "Districts": "Accra Metropolitan",
+    "Region ID": "18"
+  },
+  {
+    "id": "171",
+    "Districts": "Ada West District",
+    "Region ID": "18"
+  },
+  {
+    "id": "172",
+    "Districts": "Ada East District",
+    "Region ID": "18"
+  },
+  {
+    "id": "173",
+    "Districts": "Adentan Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "174",
+    "Districts": "Ashaiman Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "175",
+    "Districts": "Ga Central Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "176",
+    "Districts": "Ga South Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "177",
+    "Districts": "Ga East Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "178",
+    "Districts": "Ga West Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "179",
+    "Districts": "La Dade Kotopon Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "180",
+    "Districts": "Ledzekuku Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "181",
+    "Districts": "La Nkwantanang Madina Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "182",
+    "Districts": "Ningo Prampram District",
+    "Region ID": "18"
+  },
+  {
+    "id": "183",
+    "Districts": "Shai Osudoku District",
+    "Region ID": "18"
+  },
+  {
+    "id": "184",
+    "Districts": "Tema Metropolitan",
+    "Region ID": "18"
+  },
+  {
+    "id": "185",
+    "Districts": "Kpone Katamanso Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "186",
+    "Districts": "Okaikwei North Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "187",
+    "Districts": "Ablekuma North Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "188",
+    "Districts": "Ablekuma West Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "189",
+    "Districts": "Ayawaso East Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "190",
+    "Districts": "Ayawaso North Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "191",
+    "Districts": "Ayawaso West Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "192",
+    "Districts": "Ga North Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "193",
+    "Districts": "Weija Gbawe Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "194",
+    "Districts": "Tema West Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "195",
+    "Districts": "Krowor Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "196",
+    "Districts": "Korle Klottey Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "197",
+    "Districts": "Ablekuma Central Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "198",
+    "Districts": "Ayawaso Central Municipal",
+    "Region ID": "18"
+  },
+  {
+    "id": "199",
+    "Districts": "Bunkpurugu Nyankpanduri District",
+    "Region ID": "20"
+  },
+  {
+    "id": "200",
+    "Districts": "Chereponi District",
+    "Region ID": "20"
+  },
+  {
+    "id": "201",
+    "Districts": "East Mamprusi Municipal",
+    "Region ID": "20"
+  },
+  {
+    "id": "202",
+    "Districts": "Mamprugu Moagduri District",
+    "Region ID": "20"
+  },
+  {
+    "id": "203",
+    "Districts": "West Mamprusi Municipal",
+    "Region ID": "20"
+  },
+  {
+    "id": "204",
+    "Districts": "Yunyoo-Nasuan District",
+    "Region ID": "20"
+  },
+  {
+    "id": "205",
+    "Districts": "Gushegu Municipal",
+    "Region ID": "21"
+  },
+  {
+    "id": "206",
+    "Districts": "Karaga District",
+    "Region ID": "21"
+  },
+  {
+    "id": "207",
+    "Districts": "Kpandai District",
+    "Region ID": "21"
+  },
+  {
+    "id": "208",
+    "Districts": "Kumbungu District",
+    "Region ID": "21"
+  },
+  {
+    "id": "209",
+    "Districts": "Mion District",
+    "Region ID": "21"
+  },
+  {
+    "id": "210",
+    "Districts": "Nanumba North Municipal",
+    "Region ID": "21"
+  },
+  {
+    "id": "211",
+    "Districts": "Nanumba South District",
+    "Region ID": "21"
+  },
+  {
+    "id": "212",
+    "Districts": "Saboba District",
+    "Region ID": "21"
+  },
+  {
+    "id": "213",
+    "Districts": "Sagnarigu Municipal",
+    "Region ID": "21"
+  },
+  {
+    "id": "214",
+    "Districts": "Savelugu Municipal",
+    "Region ID": "21"
+  },
+  {
+    "id": "215",
+    "Districts": "Tamale Metropolitan",
+    "Region ID": "21"
+  },
+  {
+    "id": "216",
+    "Districts": "Tatale/Sanguli District",
+    "Region ID": "21"
+  },
+  {
+    "id": "217",
+    "Districts": "Tolon District",
+    "Region ID": "21"
+  },
+  {
+    "id": "218",
+    "Districts": "Yendi Municipal",
+    "Region ID": "21"
+  },
+  {
+    "id": "219",
+    "Districts": "Zabzugu District",
+    "Region ID": "21"
+  },
+  {
+    "id": "220",
+    "Districts": "Nanton District",
+    "Region ID": "21"
+  },
+  {
+    "id": "221",
+    "Districts": "Biakoye District",
+    "Region ID": "25"
+  },
+  {
+    "id": "222",
+    "Districts": "Jasikan District",
+    "Region ID": "25"
+  },
+  {
+    "id": "223",
+    "Districts": "Kadjebi District",
+    "Region ID": "25"
+  },
+  {
+    "id": "224",
+    "Districts": "Krachi East Municipal",
+    "Region ID": "25"
+  },
+  {
+    "id": "225",
+    "Districts": "Krachi Nchumuru District",
+    "Region ID": "25"
+  },
+  {
+    "id": "226",
+    "Districts": "Krachi West District",
+    "Region ID": "25"
+  },
+  {
+    "id": "227",
+    "Districts": "Nkwanta North District",
+    "Region ID": "25"
+  },
+  {
+    "id": "228",
+    "Districts": "Nkwanta South Municipal",
+    "Region ID": "25"
+  },
+  {
+    "id": "229",
+    "Districts": "Bole District",
+    "Region ID": "19"
+  },
+  {
+    "id": "230",
+    "Districts": "Central Gonja District",
+    "Region ID": "19"
+  },
+  {
+    "id": "231",
+    "Districts": "East Gonja Municipal",
+    "Region ID": "19"
+  },
+  {
+    "id": "232",
+    "Districts": "North Gonja District",
+    "Region ID": "19"
+  },
+  {
+    "id": "233",
+    "Districts": "Sawla-Tuna-Kalba District",
+    "Region ID": "19"
+  },
+  {
+    "id": "234",
+    "Districts": "West Gonja District",
+    "Region ID": "19"
+  },
+  {
+    "id": "235",
+    "Districts": "North East Gonja District",
+    "Region ID": "19"
+  },
+  {
+    "id": "236",
+    "Districts": "Bawku Municipal",
+    "Region ID": "22"
+  },
+  {
+    "id": "237",
+    "Districts": "Bawku West District",
+    "Region ID": "22"
+  },
+  {
+    "id": "238",
+    "Districts": "Binduri District",
+    "Region ID": "22"
+  },
+  {
+    "id": "239",
+    "Districts": "Bolgatanga Municipal",
+    "Region ID": "22"
+  },
+  {
+    "id": "240",
+    "Districts": "Bongo District",
+    "Region ID": "22"
+  },
+  {
+    "id": "241",
+    "Districts": "Builsa North Municipal",
+    "Region ID": "22"
+  },
+  {
+    "id": "242",
+    "Districts": "Builsa South District",
+    "Region ID": "22"
+  },
+  {
+    "id": "243",
+    "Districts": "Garu District",
+    "Region ID": "22"
+  },
+  {
+    "id": "244",
+    "Districts": "Kassena Nankana Municipal",
+    "Region ID": "22"
+  },
+  {
+    "id": "245",
+    "Districts": "Kassena Nankana West District",
+    "Region ID": "22"
+  },
+  {
+    "id": "246",
+    "Districts": "Nabdam District",
+    "Region ID": "22"
+  },
+  {
+    "id": "247",
+    "Districts": "Pusiga District",
+    "Region ID": "22"
+  },
+  {
+    "id": "248",
+    "Districts": "Talensi District",
+    "Region ID": "22"
+  },
+  {
+    "id": "249",
+    "Districts": "Bolgatanga East District",
+    "Region ID": "22"
+  },
+  {
+    "id": "250",
+    "Districts": "Tempane District",
+    "Region ID": "22"
+  },
+  {
+    "id": "251",
+    "Districts": "Daffiama Bussie Issa District",
+    "Region ID": "23"
+  },
+  {
+    "id": "252",
+    "Districts": "Jirapa Municipal",
+    "Region ID": "23"
+  },
+  {
+    "id": "253",
+    "Districts": "Lambussie Karni District",
+    "Region ID": "23"
+  },
+  {
+    "id": "254",
+    "Districts": "Lawra Municipal",
+    "Region ID": "23"
+  },
+  {
+    "id": "255",
+    "Districts": "Nadowli Kaleo District",
+    "Region ID": "23"
+  },
+  {
+    "id": "256",
+    "Districts": "Nandom District",
+    "Region ID": "23"
+  },
+  {
+    "id": "257",
+    "Districts": "Sissala East Municipal",
+    "Region ID": "23"
+  },
+  {
+    "id": "258",
+    "Districts": "Sissala West District",
+    "Region ID": "23"
+  },
+  {
+    "id": "259",
+    "Districts": "Wa East District",
+    "Region ID": "23"
+  },
+  {
+    "id": "260",
+    "Districts": "Wa Municipal",
+    "Region ID": "23"
+  },
+  {
+    "id": "261",
+    "Districts": "Wa West District",
+    "Region ID": "23"
+  },
+  {
+    "id": "262",
+    "Districts": "Adaklu District",
+    "Region ID": "24"
+  },
+  {
+    "id": "263",
+    "Districts": "Afadzato South District",
+    "Region ID": "24"
+  },
+  {
+    "id": "264",
+    "Districts": "Agotime Ziope District",
+    "Region ID": "24"
+  },
+  {
+    "id": "265",
+    "Districts": "Akatsi North District",
+    "Region ID": "24"
+  },
+  {
+    "id": "266",
+    "Districts": "Akatsi South District",
+    "Region ID": "24"
+  },
+  {
+    "id": "267",
+    "Districts": "Central Tongu District",
+    "Region ID": "24"
+  },
+  {
+    "id": "268",
+    "Districts": "Ho Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "269",
+    "Districts": "Ho West District",
+    "Region ID": "24"
+  },
+  {
+    "id": "270",
+    "Districts": "Hohoe Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "271",
+    "Districts": "Keta Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "272",
+    "Districts": "Ketu North Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "273",
+    "Districts": "Ketu South Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "274",
+    "Districts": "Kpando Municipal",
+    "Region ID": "24"
+  },
+  {
+    "id": "275",
+    "Districts": "North Dayi District",
+    "Region ID": "24"
+  },
+  {
+    "id": "276",
+    "Districts": "North Tongu District",
+    "Region ID": "24"
+  },
+  {
+    "id": "277",
+    "Districts": "South Dayi District",
+    "Region ID": "24"
+  },
+  {
+    "id": "278",
+    "Districts": "South Tongu District",
+    "Region ID": "24"
+  },
+  {
+    "id": "279",
+    "Districts": "Anloga District",
+    "Region ID": "24"
+  },
+  {
+    "id": "280",
+    "Districts": "Ahanta West Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "281",
+    "Districts": "Amenfi Central District",
+    "Region ID": "26"
+  },
+  {
+    "id": "282",
+    "Districts": "Wassa Amenfi East Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "283",
+    "Districts": "Amenfi West Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "284",
+    "Districts": "Ellembelle District",
+    "Region ID": "26"
+  },
+  {
+    "id": "285",
+    "Districts": "Jomoro Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "286",
+    "Districts": "Mpohor District",
+    "Region ID": "26"
+  },
+  {
+    "id": "287",
+    "Districts": "Nzema East Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "288",
+    "Districts": "Prestea-Huni Valley Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "289",
+    "Districts": "Sekondi Takoradi Metropolitan",
+    "Region ID": "26"
+  },
+  {
+    "id": "290",
+    "Districts": "Shama District",
+    "Region ID": "26"
+  },
+  {
+    "id": "291",
+    "Districts": "Tarkwa Nsuaem Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "292",
+    "Districts": "Wassa East District",
+    "Region ID": "26"
+  },
+  {
+    "id": "293",
+    "Districts": "Effia Kwesimintsim Municipal",
+    "Region ID": "26"
+  },
+  {
+    "id": "294",
+    "Districts": "Aowin Municipal",
+    "Region ID": "27"
+  },
+  {
+    "id": "295",
+    "Districts": "Bia East District",
+    "Region ID": "27"
+  },
+  {
+    "id": "296",
+    "Districts": "Bia West District",
+    "Region ID": "27"
+  },
+  {
+    "id": "297",
+    "Districts": "Bibiani-Anhwiaso Bekwai Municipal",
+    "Region ID": "27"
+  },
+  {
+    "id": "298",
+    "Districts": "Bodi District",
+    "Region ID": "27"
+  },
+  {
+    "id": "299",
+    "Districts": "Juaboso District",
+    "Region ID": "27"
+  },
+  {
+    "id": "300",
+    "Districts": "Sefwi Akontombra District",
+    "Region ID": "27"
+  },
+  {
+    "id": "301",
+    "Districts": "Sefwi Wiawso Municipal",
+    "Region ID": "27"
+  },
+  {
+    "id": "302",
+    "Districts": "Suaman District",
+    "Region ID": "27"
+  }
+]

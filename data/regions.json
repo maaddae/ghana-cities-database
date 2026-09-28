@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Ashanti"
+  },
+  {
+    "id": "2",
+    "name": "Ahafo"
+  },
+  {
+    "id": "3",
+    "name": "Bono East"
+  },
+  {
+    "id": "4",
+    "name": "Bono"
+  },
+  {
+    "id": "5",
+    "name": "Central"
+  },
+  {
+    "id": "6",
+    "name": "Eastern"
+  },
+  {
+    "id": "7",
+    "name": "Greater Accra"
+  },
+  {
+    "id": "8",
+    "name": "Savannah"
+  },
+  {
+    "id": "9",
+    "name": "North East"
+  },
+  {
+    "id": "10",
+    "name": "Northern"
+  },
+  {
+    "id": "11",
+    "name": "Upper East"
+  },
+  {
+    "id": "12",
+    "name": "Upper West"
+  },
+  {
+    "id": "13",
+    "name": "Volta"
+  },
+  {
+    "id": "14",
+    "name": "Oti"
+  },
+  {
+    "id": "15",
+    "name": "Western"
+  },
+  {
+    "id": "16",
+    "name": "Western North"
+  }
+]

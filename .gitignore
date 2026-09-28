@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+
+# Local databases / generated files
+*.sqlite
+*.sqlite3
+*.db
+sqlite/*.db
+sqlite/*.sqlite
+sqlite/*.sqlite3
+*.log
+*.tmp
+*.bak
+
+# Environment files
+.env
+.env.*
