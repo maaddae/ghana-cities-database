@@ -58,17 +58,6 @@ As the dataset grows, the following checks are recommended before publishing upd
 - country metadata should remain consistent across files
 - town CSVs should use the same IDs and naming conventions as region and district datasets
 
-## Recommended next add-ons
-
-The following upgrades are safe, low-risk enhancements that do not change the meaning of the underlying data:
-
-1. SQLite export for local querying without a MySQL setup
-2. JSON export for app and frontend integrations
-3. town coverage expansion beyond Greater Accra
-4. a `data_dictionary.md` file describing each field and expected value
-5. a `CHANGELOG.md` with versioned notes for data corrections and additions
-6. a `sources.md` file documenting where each dataset came from and how it was validated
-
 ## Data provenance and release policy
 
 For long-term maintainability, each published change should include:
